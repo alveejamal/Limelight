@@ -10,7 +10,7 @@ public class Main {
         Encoder encoder = new EncoderImpl();
 
 
-        String transformation = "-1";
+        String transformation = "-41";
         String input_text = "Shorab Jamal";
 
         String[][] encodedKeyboard= encoder.keyboardEncoder(transformation);
